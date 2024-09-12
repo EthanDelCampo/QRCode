@@ -3,6 +3,9 @@ import qrcode
 # Function to generate QR code using the QR code library;
 # this is for personal use only.
 
+# For reference, the official documentation for qrcode is here:
+# https://pypi.org/project/qrcode/
+
 def generate_qr_code(data, filename):
 
     # Creates an instance of a QR code
